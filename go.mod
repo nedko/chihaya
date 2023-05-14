@@ -8,7 +8,7 @@ require (
 	github.com/alicebob/miniredis v2.5.0+incompatible
 	github.com/anacrolix/dht/v2 v2.15.1 // indirect
 	github.com/anacrolix/missinggo/v2 v2.5.3 // indirect
-	github.com/anacrolix/torrent v1.40.0
+	github.com/anacrolix/torrent v1.50.0
 	github.com/go-redsync/redsync/v4 v4.8.1
 	github.com/gomodule/redigo v1.8.8
 	github.com/julienschmidt/httprouter v1.3.0
